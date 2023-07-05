@@ -27,9 +27,9 @@ Part 2: VacationPy
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 Request API keys from OpenWeatherMap and Geoapify
 Install following libraries:
-  citipy
-  geoviews
-  etc etc
+  \n citipy
+  \n geoviews
+  \n etc etc
   
 ## Installing
 Installation instructions.
