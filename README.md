@@ -11,14 +11,14 @@ Module 6 Challenge - Python APIs
 - [Contributing](#contributing)
 
 ## About
-**Part 1: WeatherPy**
+**Part 1: WeatherPy**  
 Python script to visualise the weather of over 500 cities of varying distances from the equator.  
 
 - citipy python library
 - OpenWeatherMap API 
 - python script - WeatherPy.ipynb
 
-**Part 2: VacationPy**
+**Part 2: VacationPy**  
 Python script to create map visualisations, to assist in planning future vacations.  
 
 - geoViews Python library
