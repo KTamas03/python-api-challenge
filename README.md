@@ -11,7 +11,6 @@ Using Python requests, APIs and JSON traversals to create output in order to ana
 - [Contributing](#contributing)
 
 ## About
-The project is in two parts:
 Part 1: WeatherPy
 - Python script to visualise the weather of over 500 cities of varying distances from the equator.
 - citipy python library
