@@ -1,6 +1,6 @@
 # python-api-challenge
 Module 6 Challenge - Python APIs
-Using Python requests, APIs and JSON traversals to create output in order to analyse weather and geolocation data.
+- Using Python requests, APIs and JSON traversals to create output in order to analyse weather and geolocation data.
 
 ## Table of Contents
 
