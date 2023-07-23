@@ -14,6 +14,7 @@ Module 6 Challenge - Python APIs
 **Part 1: WeatherPy**  
 Python script to visualise the weather of over 500 cities of varying distances from the equator.  
 what was the purpose of each part....
+
 Tools/Libraries Imported:
 - matplotlib.pyplot library: used for creating graphs and charts
 - pandas library: used for data manipulation and analysis
@@ -24,14 +25,30 @@ Tools/Libraries Imported:
 - pprint: pretty print data structures to make them more readable
 - citypy library: to determine the nearest city for a given latitude and longitude so can map coordinates to the corresponding name
 
+Python Script:
+- File: WeatherPy.ipynb
+- Purpose:
+  - Create a list a random coordinates that will create a list of cities using the citypy library.
+  - Create Plots to Showcase the Relationship Between Weather Variables and Latitude
+  -   Use the OpenWeatherMap API to retrieve weather data from the cities list generated in the started code
+  -   Create the Scatter Plots:
+  -     Latitude Vs. Temperature
+  -     Latitude Vs. Humidity
+  -     Latitude Vs. Cloudiness
+  -     Latitude vs. Wind Speed Plot
+  - Compute Linear Regression for Each Relationship
+  -   Temperature vs. Latitude Linear Regression Plot
+  -   Humidity vs. Latitude Linear Regression Plot
+  -   Cloudiness vs. Latitude Linear Regression Plot
+  -   Wind Speed vs. Latitude Linear Regression Plot
+  
 Output Folder:
 - File: cities.csv
 - Contains: list of cities with longitude, latitude, max temp, humidity, cloudiness, wind speed, country and date.
 
-mention output files in Output folder
-- citipy python library
+
 - OpenWeatherMap API 
-- python script - WeatherPy.ipynb
+
 - import Matplotlib and other ones listed at top of code.....
 
 **Part 2: VacationPy**  
