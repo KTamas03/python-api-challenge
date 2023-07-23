@@ -30,17 +30,17 @@ Python Script:
 - Purpose:
   - Create a list a random coordinates that will create a list of cities using the citypy library.
   - Create Plots to Showcase the Relationship Between Weather Variables and Latitude
-  -   Use the OpenWeatherMap API to retrieve weather data from the cities list generated in the started code
-  -   Create the Scatter Plots:
-  -     Latitude Vs. Temperature
-  -     Latitude Vs. Humidity
-  -     Latitude Vs. Cloudiness
-  -     Latitude vs. Wind Speed Plot
+    - Use the OpenWeatherMap API to retrieve weather data from the cities list generated in the started code
+    - Create the Scatter Plots:
+      - Latitude Vs. Temperature
+      - Latitude Vs. Humidity
+      - Latitude Vs. Cloudiness
+      - Latitude vs. Wind Speed Plot
   - Compute Linear Regression for Each Relationship
-  -   Temperature vs. Latitude Linear Regression Plot
-  -   Humidity vs. Latitude Linear Regression Plot
-  -   Cloudiness vs. Latitude Linear Regression Plot
-  -   Wind Speed vs. Latitude Linear Regression Plot
+    - Temperature vs. Latitude Linear Regression Plot
+    - Humidity vs. Latitude Linear Regression Plot
+    - Cloudiness vs. Latitude Linear Regression Plot
+    - Wind Speed vs. Latitude Linear Regression Plot
   
 Output Folder:
 - File: cities.csv
