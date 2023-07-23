@@ -7,13 +7,10 @@ Module 6 Challenge - Python APIs
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Installing](#installing)
-- [Usage](#usage)
-- [Contributing](#contributing)
 
 ## About
 **Part 1: WeatherPy**
 Python script to visualise the weather of over 500 cities of varying distances from the equator.  
-what was the purpose of each part....
 
 Tools/Libraries Imported:
 - matplotlib.pyplot library: used for creating graphs and charts
@@ -74,25 +71,21 @@ Tools/Libraries Imported:
   - need to save API keys in py file saved same folder location as VacationPy.ipynb and WeatherPy.ipynb files.
 
 2. Open Anaconda prompt.
-  a. Activate dev enviroment, type: 'conda activate dev'
-  b. Navigate to folder location of python scripts VacationPy.ipynb and WeatherPy.ipynb
-  c. Open Jupyter Notebook, type: 'Jupyter Notebook'
+  - Activate dev enviroment, type: 'conda activate dev'
+  - Navigate to folder location of python scripts VacationPy.ipynb and WeatherPy.ipynb
+  - Open Jupyter Notebook, type: 'Jupyter Notebook'
 
 ## Installing
-Installation instructions.
-mention which libraries were installed, not how...
 Install following libraries:  
+  - hvplot
+  - pandas
+  - requests
+  - pathlib
+  - matplotlib
+  - numpy
+  - scipy
+  - pprint
   - citipy
-  - geoviews
-  - etc etc
 
-## Usage
-A step by step series of examples that tell you how to get a development env running.
-activate anaconda dev environment before opening Jupyter Notebook
-making sure API keys are saved in the correct location
 
-## Contributing
-Contributors names
-website data sources to find answers for the project eg stackoverflow
-or help from tutor
 
