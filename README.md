@@ -11,7 +11,7 @@ Module 6 Challenge - Python APIs
 - [Contributing](#contributing)
 
 ## About
-**Part 1: WeatherPy**  
+***Part 1: WeatherPy***
 Python script to visualise the weather of over 500 cities of varying distances from the equator.  
 what was the purpose of each part....
 
@@ -46,10 +46,6 @@ Output Folder:
 - File: cities.csv
 - Contains: list of cities with longitude, latitude, max temp, humidity, cloudiness, wind speed, country and date.
 
-
-- OpenWeatherMap API 
-
-- import Matplotlib and other ones listed at top of code.....
 
 **Part 2: VacationPy**  
 Python script to create map visualisations, to assist in planning future vacations.  
