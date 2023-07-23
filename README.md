@@ -14,7 +14,20 @@ Module 6 Challenge - Python APIs
 **Part 1: WeatherPy**  
 Python script to visualise the weather of over 500 cities of varying distances from the equator.  
 what was the purpose of each part....
-and the tools used eg. tools, libraries imported (not installed) and what the libraries are for...
+Tools/Libraries Imported:
+- matplotlib.pyplot library: used for creating graphs and charts
+- pandas library: used for data manipulation and analysis
+- numpy library: used for numerical computations
+- requests library: for making HTTP requests so can interact with APIs and fetch data from web servers
+- time: to provide time related functions
+- scipy.stats.lingress: from Scipy library to create linear regression
+- pprint: pretty print data structures to make them more readable
+- citypy library: to determine the nearest city for a given latitude and longitude so can map coordinates to the corresponding name
+
+Output Folder:
+- File: cities.csv
+- Contains: list of cities with longitude, latitude, max temp, humidity, cloudiness, wind speed, country and date.
+
 mention output files in Output folder
 - citipy python library
 - OpenWeatherMap API 
@@ -34,7 +47,7 @@ These instructions will get you a copy of the project up and running on your loc
 Request API keys from:  
   - OpenWeatherMap (https://openweathermap.org/api)
   - Geoapify (https://www.geoapify.com/)
-  - need to save API keys in py file saved in location.....
+  - need to save API keys in py file saved same folder location as VacationPy.ipynb and WeatherPy.ipynb files.
   
 ## Installing
 Installation instructions.
